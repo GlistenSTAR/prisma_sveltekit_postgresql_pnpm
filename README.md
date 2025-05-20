@@ -1,7 +1,7 @@
 # Fullstack Example with SvelteKit Actions and Load Functions
 
 ```
-git clone https://github.com/GlistenSTAR/prisma_sveltekit_postgresql_pnpm.git template```
+git clone https://github.com/GlistenSTAR/prisma_sveltekit_postgresql_pnpm.git template
 cd template
 pnpm install
 ```
